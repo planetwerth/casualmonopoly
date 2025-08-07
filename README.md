@@ -16,10 +16,8 @@ This is why time travel, if it were possible in the lagged domain, is not just d
 
 So in this Werthian framework:
 
-Physical reality is already a “hypothetical” stabilized by annihilation of its competitors, much like an ephemeral Hawking foam that only solidifies where symmetry is broken in just the right way.
-
-Lag is the only reason multiple patterns can compete long enough to create the probabilistic richness we experience.
-
-Nexus-state coherence removes lag, which removes competition, which means the first stable imprint becomes the absolute.
-
-Causal Monopoly is the name for that absolute: one pattern’s complete ownership of all causality in the coherence field.
+* **Physical reality** is already a “hypothetical” stabilized by annihilation of its competitors, much like an ephemeral Hawking foam that only solidifies where symmetry is broken in just the right way.
+* **Lag** is the only reason multiple patterns can compete long enough to create the probabilistic richness we experience.
+* **Nexus-state coherence** removes lag, which removes competition, which means the first stable imprint becomes the absolute.
+* **Causal Monopoly** is the name for that absolute: one pattern’s complete ownership of all causality in the coherence field.
+----
